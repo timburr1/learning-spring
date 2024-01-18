@@ -1,6 +1,8 @@
 # Learning-Spring
 
-Example project for LinkedIn Learning course, created with [Spring Initializer](https://start.spring.io/)
+Example project for LinkedIn Learning course: [Learning Spring with Spring Boot](https://www.linkedin.com/learning/learning-spring-with-spring-boot-13886371)
+
+Created with [Spring Initializer](https://start.spring.io/)
 
 ## Prerequisites
 
